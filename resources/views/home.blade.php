@@ -26,6 +26,8 @@
         <link rel="stylesheet" href="assets/css/magnific-popup.css">
         <link rel="stylesheet" href="assets/css/bootsnav.css">
         <link rel="stylesheet" href="assets/css/all.min.css">
+        <link rel="stylesheet" href="assets/css/stylef.css">
+        
 
 
 
@@ -181,7 +183,7 @@
                                 <button class="btn button is-checked" data-filter="*">Todos</button>
                                 <button class="btn button" data-filter=".metal">Feminino</button>
                                 <button class="btn button" data-filter=".transition">Masculino</button>
-                                <button class="btn button" data-filter=".alkali">Nu</button>
+                                <button class="btn button" data-filter=".alkali">Casal</button>
                                 <button class="btn button" data-filter=".ar">Shibari</button>
                             </div>
                         </div>
@@ -192,7 +194,7 @@
 
                         <div class="grid text-center">
 
-                            <div class="grid-item transition metal ium">
+                            <div class="grid-item metal ium">
                                 <img alt="" src="assets/images/1.jpg">
                                 <div class="grid_hover_area text-center">
                                     <div class="girid_hover_text m-top-110">
@@ -203,7 +205,7 @@
                                 </div><!-- End off grid Hover area -->
                             </div><!-- End off grid item -->
 
-                            <div class="grid-item metalloid " >
+                            <div class="grid-item metalloid metal " >
                                 <img alt="" src="assets/images/2.jpg">
                                 <div class="grid_hover_area text-center">
                                     <div class="girid_hover_text m-top-180">
@@ -236,7 +238,7 @@
                                 </div><!-- End off grid Hover area -->
                             </div><!-- End off grid item -->
 
-                            <div class="grid-item metal ar" >
+                            <div class="grid-item transition ar" >
                                 <img alt="" src="assets/images/5.jpg">
                                 <div class="grid_hover_area text-center">
                                     <div class="girid_hover_text m-top-110">
@@ -247,7 +249,7 @@
                                 </div><!-- End off grid Hover area -->
                             </div><!-- End off grid item -->
 
-                            <div class="grid-item alkali ar" >
+                            <div class="grid-item metal" >
                                 <img alt="" src="assets/images/6.jpg">
                                 <div class="grid_hover_area text-center">
                                     <div class="girid_hover_text m-top-50">
@@ -257,6 +259,76 @@
                                     </div>
                                 </div><!-- End off grid Hover area -->
                             </div><!-- End off grid item -->
+
+                            <div class="grid-item  transition" >
+                                <img alt="" src="assets/images/7.jpg">
+                                <div class="grid_hover_area text-center">
+                                    <div class="girid_hover_text m-top-50">
+                                        <h4 class="text-white">Modelo</h4>
+                                        <p class="text-white">- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                        <a href="assets/images/7.jpg" class="btn btn-primary popup-img">Ver mais</a>
+                                    </div>
+                                </div><!-- End off grid Hover area -->
+                            </div><!-- End off grid item -->
+                            <div class="grid-item alkali " >
+                                <img alt="" src="assets/images/8.jpg">
+                                <div class="grid_hover_area text-center">
+                                    <div class="girid_hover_text m-top-50">
+                                        <h4 class="text-white">Modelo</h4>
+                                        <p class="text-white">- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                        <a href="assets/images/8.jpg" class="btn btn-primary popup-img">Ver mais</a>
+                                    </div>
+                                </div><!-- End off grid Hover area -->
+                            </div><!-- End off grid item -->
+
+                            <div class="grid-item transition " >
+                                <img alt="" src="assets/images/9.jpg">
+                                <div class="grid_hover_area text-center">
+                                    <div class="girid_hover_text m-top-50">
+                                        <h4 class="text-white">Modelo</h4>
+                                        <p class="text-white">- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                        <a href="assets/images/9.jpg" class="btn btn-primary popup-img">Ver mais</a>
+                                    </div>
+                                </div><!-- End off grid Hover area -->
+                            </div><!-- End off grid item -->
+
+                            <div class="grid-item alkali " >
+                                <img alt="" src="assets/images/10.jpg">
+                                <div class="grid_hover_area text-center">
+                                    <div class="girid_hover_text m-top-50">
+                                        <h4 class="text-white">Modelo</h4>
+                                        <p class="text-white">- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                        <a href="assets/images/10.jpg" class="btn btn-primary popup-img">Ver mais</a>
+                                    </div>
+                                </div><!-- End off grid Hover area -->
+                            </div><!-- End off grid item -->
+
+                            <div class="grid-item ar metal" >
+                                <img alt="" src="assets/images/11.jpg">
+                                <div class="grid_hover_area text-center">
+                                    <div class="girid_hover_text m-top-50">
+                                        <h4 class="text-white">Modelo</h4>
+                                        <p class="text-white">- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                        <a href="assets/images/11.jpg" class="btn btn-primary popup-img">Ver mais</a>
+                                    </div>
+                                </div><!-- End off grid Hover area -->
+                            </div><!-- End off grid item -->
+
+                            <div class="grid-item ar metal " >
+                                <img alt="" src="assets/images/12.jpg">
+                                <div class="grid_hover_area text-center">
+                                    <div class="girid_hover_text m-top-50">
+                                        <h4 class="text-white">Modelo</h4>
+                                        <p class="text-white">- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                        <a href="assets/images/12.jpg" class="btn btn-primary popup-img">Ver mais</a>
+                                    </div>
+                                </div><!-- End off grid Hover area -->
+                            </div><!-- End off grid item -->
+
+
+
+
+
 
                         </div>
 
@@ -533,26 +605,46 @@
                 </div>
             </section><!-- End off test section -->
 
-            <section  id="contact" class="home-newsletter">
-                <div class="container">
-                <div class="row">
-                <div class="col-sm-12">
-                    <div class="single">
-                        <h2>Acompanhe nossas novidades</h2>
-                    <div class="input-group">
-                         <input type="email" class="form-control" placeholder="E-mail">
-                         <span class="input-group-btn">
-                         <button class="btn btn-theme" type="submit">Inscrever</button>
-                         </span>
-                          </div>
+            <!-- Footer -->
+            <section >
+                <footer id="bgfooter" style="background-image: url('assets/images/f1.jpg')">
+                    <div class="footer-top">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-4 col-lg-4 footer-about wow fadeInUp">
+                                    <div> <img  id="logof" class="logo-footer" src="assets/images/logo.png" alt="logo-footer"></div>
+                                   
+                                    <p>
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.
+                                    </p>
+                                </div>
+                                <div class="col-md-4 col-lg-4 offset-lg-1 footer-contact wow fadeInDown" style="margin-left: 383px;"   >
+                                    <h3>Contact</h3>
+                                    <p><i class="fas fa-map-marker-alt"></i> Brasília , Distrito Federal, Brazil</p>
+                                    <p><i class="fas fa-phone"></i> Telefone: (61)9452-1234</p>
+                                    <p><i class="fas fa-envelope"></i> Email: <a href="#">algumacoisa@gmail.com</a></p>
+                                    <p><i class="fab fa-instagram"></i> Instagram: @hey.yuuh</p>
+                                </div>
+                                
+                            </div>
+                        </div>
                     </div>
-                </div>
-                </div>
-                </div>
-                </section>
-                <a class="whatsapp-link" href="https://web.whatsapp.com/send?phone=5599111112222" target="_blank">
-                    <i class="fa fa-whatsapp"></i>
-                </a>
+                    <div class="footer-bottom">
+                        <div class="container">
+                            <div class="row">
+                                   <div class="col-md-5 footer-copyright">
+                                    <p >Desenvolvido por <a href="https://github.com/led007" target="_blank">Lucas Eduardo</a></p>
+                                </div>
+                                   <div class="col-md-7 footer-menu">
+                                    </nav>
+                                </div>
+                               </div>
+                        </div>
+                    </div>
+                </footer>
+            </section>
+        
+
 
             
 
