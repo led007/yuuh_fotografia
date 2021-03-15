@@ -44,6 +44,9 @@
     </head>
 
     <body data-spy="scroll" data-target=".navbar-collapse" data-offset="100">
+        <a class="whatsapp-link" href="https://web.whatsapp.com/send?phone=5599111112222" target="_blank">
+            <i class="fa fa-whatsapp"></i>
+        </a>
 
 
         <!-- Preloader -->
@@ -106,7 +109,7 @@
                             <li><a href="#service">Serviços</a></li>
                             <li><a href="#features">Sobre</a></li>
                             <li><a href="#test">Depoimentos</a></li>
-                            <li><a href="#contact">Contato</a></li>
+                            <li><a href="#contato">Contato</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                 </div> 
@@ -124,7 +127,7 @@
                                 <div class="hello">
                                     <div class="slid_item">
                                         <div class="home_text ">
-                                            <h1 class="text-yellow">Yuu Ribeiro Fotografia</h1>
+                                            <h1 class="text-yellow">Yuuh Ribeiro Fotografia</h1>
                                             <h3 class="text-white text-uppercase">Modelos, fotógrafa, motociclista, empreendedora e tudo aquilo que eu quiser ser. </h3>
                                         </div>
                                     </div><!-- End off slid item -->
@@ -606,8 +609,8 @@
             </section><!-- End off test section -->
 
             <!-- Footer -->
-            <section >
-                <footer id="bgfooter" style="background-image: url('assets/images/f1.jpg')">
+            <section id="contato">
+                <footer id="bgfooter " style="background-image: url('assets/images/f1.jpg')">
                     <div class="footer-top">
                         <div class="container">
                             <div class="row">
